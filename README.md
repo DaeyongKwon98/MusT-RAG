@@ -2,6 +2,8 @@
 
 ## MusT-RAG: Musical Text Question Answering with Retrieval Augmented Generation
 
+![MusT-RAG architecture](https://github.com/user-attachments/assets/8da0b91b-9195-4d52-a4f3-cd1790e687e9)
+
 This repository contains the datasets and related resources for the paper: MusT-RAG: Musical Text Question Answering with Retrieval Augmented Generation. MusT-RAG is a novel framework designed to adapt general-purpose large language models (LLMs) to music-related question answering tasks using Retrieval-Augmented Generation (RAG). By incorporating MusWikiDB, a domain-specific music knowledge base, and leveraging contextual information during both training and inference, MusT-RAG achieves significantly improved performance on both in-domain and out-of-domain music QA benchmarks.
 
 ## Data Description
